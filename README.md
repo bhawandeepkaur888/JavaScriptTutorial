@@ -5,7 +5,7 @@ This project demonstrates the fundamental data types in JavaScript for beginners
 ## About the Project
 
 - Student Name: Bhawandeep Kaur
-- Goal: Help people learn programming
+- Goal: learning javascript 2026
 - Focus: Understanding basic JavaScript concepts
 
 ## Primitive Data Types Covered
