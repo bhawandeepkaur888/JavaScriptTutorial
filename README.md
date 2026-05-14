@@ -1,6 +1,9 @@
 # JavaScript Basics - Learning Project
 
-This project demonstrates the fundamental data types in JavaScript for beginners.
+This project are the fundamental data types in JavaScript for beginners.
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/848cb85e-36a9-4201-a59b-7f36233162ba" />
+
 
 ## About the Project
 
