@@ -1,19 +1,18 @@
-// Objects
-
+// objects
 // creating Objects
 const person = {
-    name: "Alice",
-    age: 28,
-    isStudent: false,
-    
-    greet() {
-        console.log(`Hi, I'm ${this.name}`);
-    }
+  name: "Bhawan",
+  project: 12,
+  isStudent: false,
+
+  greet() {
+    console.log(`Hi, I'm ${this.name}`);
+  },
 };
 
 // dot vs Bracket Notation
-console.log(person.name);           // Dot notation
-console.log(person["age"]);         // Bracket notation
+console.log(person.name);
+console.log(person["project"]);
 
 const key = "name";
 console.log(person[key]);
@@ -28,10 +27,10 @@ console.log(city);
 
 // this keyword
 const user = {
-    username: "john123",
-    login() {
-        console.log(`${this.username} has logged in`);
-    }
+  username: "john123",
+  login() {
+    console.log(`${this.username} has logged in`);
+  },
 };
 
 user.login();
