@@ -67,13 +67,6 @@ This project demonstrates the fundamental data types in JavaScript for beginners
 - Generators & Iterators
 - Web APIs (LocalStorage, SessionStorage, Geolocation, etc.)
 
----
-
-## Files in this project
-
-- `primitive-data-types.js` → Main file (Data Types Demo)
-
----
 
 **Happy Learning!**  
 Keep practicing every day.
